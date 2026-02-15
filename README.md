@@ -1,9 +1,12 @@
 # 🔥 FLAMES — From Childhood Memories to Code
 
+![FLAMES App Preview](preview.png)
+
 An interactive web application that reimagines the classic FLAMES game with a modern UI and dynamic emoji animations.
 
 🌐 **Live Demo:**  
 👉 https://sainikith07.github.io/Flames/
+
 
 ---
 
